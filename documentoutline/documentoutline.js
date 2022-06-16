@@ -20,6 +20,6 @@
 
   console.log('---------')
 
-  var done = 'Finished running “Doc Info”'
+  var done = 'Finished running “Doc Outline"'
   done;
 }
